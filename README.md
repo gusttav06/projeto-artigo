@@ -7,7 +7,7 @@
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - para editar as imagens
 # Autores da criação
 <p>Gustavo</p>
-<a>https://github.com/gusttav06</a>
+<a href="https://github.com/gusttav06">GitHub</a>
 
 link do artigo na plataforma DIO:
-acesse <a>https://web.dio.me/articles/sobre-front-end?back=%2Farticles&page=1&order=oldest</a>
+acesse <a href="https://web.dio.me/articles/sobre-front-end?back=%2Farticles&page=1&order=oldest">LINK ARTICLE</a>

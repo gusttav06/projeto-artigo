@@ -30,4 +30,7 @@ Acessibilidade garante que todos, incluindo pessoas com deficiências, possam us
 ## 🎨 Conclusão
 <img src="image/images.jpg">
 O desenvolvimento front-end equilibra criatividade e habilidades técnicas. Dominar tecnologias essenciais, usar frameworks, adotar design responsivo, aproveitar ferramentas e garantir acessibilidade são passos fundamentais para criar experiências web de alta qualidade.
-```
+
+
+link do artigo na plataforma DIO:
+acesse <a>https://web.dio.me/articles/sobre-front-end?back=%2Farticles&page=1&order=oldest</a>
